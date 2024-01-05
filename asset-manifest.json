@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TDList/static/css/main.224c1651.css",
+    "main.js": "/TDList/static/js/main.25de652d.js",
+    "static/js/787.d4aba7ab.chunk.js": "/TDList/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/TDList/index.html",
+    "main.224c1651.css.map": "/TDList/static/css/main.224c1651.css.map",
+    "main.25de652d.js.map": "/TDList/static/js/main.25de652d.js.map",
+    "787.d4aba7ab.chunk.js.map": "/TDList/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.224c1651.css",
+    "static/js/main.25de652d.js"
+  ]
+}
