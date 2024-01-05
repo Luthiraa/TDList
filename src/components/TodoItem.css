@@ -1,0 +1,15 @@
+.completed {
+  text-decoration: line-through;
+}
+
+.priority-Low {
+  color: green;
+}
+
+.priority-Medium {
+  color: orange;
+}
+
+.priority-High {
+  color: red;
+}

@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #003049; 
+  color: #fdf0d5;
+}
+
+.App {
+  text-align: center;
+}
+
+header {
+  padding: 20px;
+}
+
+header div {
+  margin-top: 10px;
+}
+
+input[type="text"],
+select,
+button {
+  padding: 8px;
+  margin-right: 8px;
+  background-color: #fdf0d5;
+}
+
+.App-header {
+  background-color: #003049;
+}
